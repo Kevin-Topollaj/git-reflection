@@ -2,3 +2,9 @@ git clone
 git log
 git diff
 git checkout
+
+git init
+git status
+git add
+git reset
+git commit
